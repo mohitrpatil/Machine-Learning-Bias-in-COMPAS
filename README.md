@@ -15,3 +15,5 @@ The code is responsible for conducting experiments to explore biases in compas d
 <br>3.4 PostProcessing reject option classification- PostProcessing_reject_option_classification.ipynb
 4. PreProcessing_Reweighing.ipynb & PostProcessing_reject_option_classification.ipynb has different model (Naive Bayes, Linear SVC) functions defined. You can use those functions to see how the algorithms perform on these models.
 5. Once it has run, you can see the graphs which will help you to understand the results correctly.
+
+AUTHORS: MOHIT PATIL & SWATI MAHAPATRA
